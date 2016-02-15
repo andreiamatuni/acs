@@ -51,7 +51,7 @@ hi StatusLine guifg=#111f24 guibg=#b0b09e guisp=#b0b09e gui=bold ctermfg=235 cte
 hi Label guifg=#494949 guibg=NONE guisp=NONE gui=bold ctermfg=239 ctermbg=NONE cterm=bold
 hi PMenuSel guifg=#111f24 guibg=#bdbda9 guisp=#bdbda9 gui=NONE ctermfg=235 ctermbg=144 cterm=NONE
 hi Search guifg=#111f24 guibg=#bdbda9 guisp=#bdbda9 gui=NONE ctermfg=235 ctermbg=144 cterm=NONE
-hi Delimiter guifg=#bdbda9 guibg=NONE guisp=NONE gui=NONE ctermfg=144 ctermbg=NONE cterm=NONE
+hi Delimiter guifg=#494949 guibg=NONE guisp=NONE gui=NONE ctermfg=239 ctermbg=NONE cterm=NONE
 hi Statement guifg=#494949 guibg=NONE guisp=NONE gui=bold ctermfg=239 ctermbg=NONE cterm=bold
 hi SpellRare guifg=#ddddff guibg=#111f24 guisp=#111f24 gui=underline ctermfg=189 ctermbg=235 cterm=underline
 hi Comment guifg=#6b7a7d guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
