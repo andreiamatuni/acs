@@ -33,7 +33,7 @@ hi Title guifg=#212126 guibg=#e3dfd5 guisp=#e3dfd5 gui=bold ctermfg=235 ctermbg=
 hi Folded guifg=#e3e0d5 guibg=#494949 guisp=#494949 gui=italic ctermfg=187 ctermbg=239 cterm=NONE
 hi PreCondit guifg=#1f1f1f guibg=NONE guisp=NONE gui=NONE ctermfg=234 ctermbg=NONE cterm=NONE
 hi Include guifg=#494949 guibg=NONE guisp=NONE gui=NONE ctermfg=239 ctermbg=NONE cterm=NONE
-hi TabLineSel guifg=#111f24 guibg=#bdbda9 guisp=#bdbda9 gui=bold ctermfg=235 ctermbg=144 cterm=bold
+hi Float guifg=#3589b3 guibg=NONE guisp=NONE gui=NONE ctermfg=67 ctermbg=NONE cterm=NONE
 hi StatusLineNC guifg=#e0570d guibg=#395a61 guisp=#395a61 gui=bold ctermfg=166 ctermbg=66 cterm=bold
 hi NonText guifg=#556b70 guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
 hi DiffText guifg=#dbdbdb guibg=#9e7b7b guisp=#9e7b7b gui=NONE ctermfg=253 ctermbg=138 cterm=NONE
@@ -48,7 +48,7 @@ hi Todo guifg=#05a35c guibg=#bdbda9 guisp=#bdbda9 gui=NONE ctermfg=35 ctermbg=14
 hi Special guifg=#494949 guibg=NONE guisp=NONE gui=NONE ctermfg=239 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#85827e guibg=NONE guisp=NONE gui=NONE ctermfg=102 ctermbg=NONE cterm=NONE
 hi StatusLine guifg=#111f24 guibg=#b0b09e guisp=#b0b09e gui=bold ctermfg=235 ctermbg=144 cterm=bold
-hi Label guifg=#bdbda9 guibg=NONE guisp=NONE gui=bold ctermfg=144 ctermbg=NONE cterm=bold
+hi Label guifg=#494949 guibg=NONE guisp=NONE gui=bold ctermfg=239 ctermbg=NONE cterm=bold
 hi PMenuSel guifg=#111f24 guibg=#bdbda9 guisp=#bdbda9 gui=NONE ctermfg=235 ctermbg=144 cterm=NONE
 hi Search guifg=#111f24 guibg=#bdbda9 guisp=#bdbda9 gui=NONE ctermfg=235 ctermbg=144 cterm=NONE
 hi Delimiter guifg=#bdbda9 guibg=NONE guisp=NONE gui=NONE ctermfg=144 ctermbg=NONE cterm=NONE
@@ -56,7 +56,7 @@ hi Statement guifg=#494949 guibg=NONE guisp=NONE gui=bold ctermfg=239 ctermbg=NO
 hi SpellRare guifg=#ddddff guibg=#111f24 guisp=#111f24 gui=underline ctermfg=189 ctermbg=235 cterm=underline
 hi Comment guifg=#6b7a7d guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
 hi Character guifg=#8e9fa8 guibg=NONE guisp=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
-hi Float guifg=#3589b3 guibg=NONE guisp=NONE gui=NONE ctermfg=67 ctermbg=NONE cterm=NONE
+hi TabLineSel guifg=#111f24 guibg=#bdbda9 guisp=#bdbda9 gui=bold ctermfg=235 ctermbg=144 cterm=bold
 hi Number guifg=#0995db guibg=NONE guisp=NONE gui=NONE ctermfg=32 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#1786bd guibg=NONE guisp=NONE gui=NONE ctermfg=4 ctermbg=NONE cterm=NONE
 hi Operator guifg=#333330 guibg=NONE guisp=NONE gui=bold ctermfg=236 ctermbg=NONE cterm=bold
@@ -71,7 +71,7 @@ hi Define guifg=#9e9e83 guibg=NONE guisp=NONE gui=NONE ctermfg=144 ctermbg=NONE 
 hi Function guifg=#a33636 guibg=NONE guisp=NONE gui=bold ctermfg=131 ctermbg=NONE cterm=bold
 hi FoldColumn guifg=#e3e0d5 guibg=#494949 guisp=#494949 gui=italic ctermfg=187 ctermbg=239 cterm=NONE
 hi PreProc guifg=#b0030c guibg=NONE guisp=NONE gui=NONE ctermfg=124 ctermbg=NONE cterm=NONE
-hi EnumerationName guifg=#666869 guibg=#e3ded5 guisp=#e3ded5 gui=NONE ctermfg=242 ctermbg=254 cterm=NONE
+hi EnumerationName guifg=#494949 guibg=#e3ded5 guisp=#e3ded5 gui=NONE ctermfg=239 ctermbg=254 cterm=NONE
 hi Visual guifg=#e3e0d5 guibg=#4b5152 guisp=#4b5152 gui=NONE ctermfg=187 ctermbg=239 cterm=NONE
 hi MoreMsg guifg=#bdbda9 guibg=NONE guisp=NONE gui=bold ctermfg=144 ctermbg=NONE cterm=bold
 hi SpellCap guifg=#ddddff guibg=#111f24 guisp=#111f24 gui=underline ctermfg=189 ctermbg=235 cterm=underline
